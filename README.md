@@ -5,9 +5,7 @@ This is a Node.js script so 1st do;
 
     $ npm install
 
-You will need to download the auth certificates from AWS IOT page: https://us-west-2.console.aws.amazon.com/iot/home
-
-And you will need to create a config file with a few environment variables;
+You will need to download the auth certificates from AWS IOT page.  And you will need to create a config file with a few environment variables;
 
     $ cp config.sh.sample config.sh
 
